@@ -1,4 +1,4 @@
-// Nagm Aldeen Hamid 
+// Najm Aldeen Hamid 
 // CISC 3160 project 
 
 #include <iostream>
