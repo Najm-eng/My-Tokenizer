@@ -1,4 +1,4 @@
-# My-Tokenizer
+# My-Tokenizer project for cisc 3160
 Tokenizer tokenize the string and print out the result if there is no error other ways cout error 
 
 
